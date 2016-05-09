@@ -1,0 +1,10 @@
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\bin\Debug\UpdatePresentation.exe.config
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\bin\Debug\UpdatePresentation.exe
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\bin\Debug\UpdatePresentation.pdb
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\obj\Debug\UpdatePresentation.csprojResolveAssemblyReference.cache
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\obj\Debug\UpdatePresentation.exe
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\obj\Debug\UpdatePresentation.pdb
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\obj\Debug\UpdatePresentation.csproj.ResolveComReference.cache
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\bin\Debug\HtmlAgilityPack.dll
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\bin\Debug\HtmlAgilityPack.pdb
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\UpdatePresentation\UpdatePresentation\bin\Debug\HtmlAgilityPack.xml
